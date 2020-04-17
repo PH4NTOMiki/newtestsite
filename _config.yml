@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: https://os-vares.com.ba
 #cdn: https://cdn.os-vares.com.ba
-root: /
+root: /newtestsite/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -103,7 +103,7 @@ fancyboxcsscombined: true
 fancyboxjscombined: true
 scriptdefer: true
 olderiesupport: true
-removestartslash: true
+#removestartslash: true
 #counter: 
 
 robotstxt:
