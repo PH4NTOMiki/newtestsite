@@ -25,7 +25,7 @@
   }
   %>
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
-  <% if (title && config.removestartslash){ %><base href="<%- config.root || '../' %>"><% } %>
+  <% if (title && config.removestartslash){ %><base href="<%- config.root && config.root.length>1 ? config.root : '../'.repeat(path.split('/').length-1) %>"><% } %>
   <% if (config.olderiesupport){ %>
   <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="/js/html5shiv.min.js"></script><![endif]-->
   <% } %>
