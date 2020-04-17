@@ -104,7 +104,7 @@ fancyboxjscombined: true
 scriptdefer: true
 olderiesupport: true
 removestartslash: true
-counter: osvares
+#counter: 
 
 robotstxt:
   useragent: "*"
