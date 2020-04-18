@@ -15,7 +15,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: https://os-vares.com.ba
 #cdn: https://cdn.os-vares.com.ba
-root: /
+root: /newtestsite/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -38,7 +38,7 @@ titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
-  exclude: 'cdn.os-vares.com.ba'
+  # exclude: ''
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -103,7 +103,7 @@ fancyboxcsscombined: true
 fancyboxjscombined: true
 scriptdefer: true
 olderiesupport: true
-removestartslash: true
+#removestartslash: true
 #counter: 
 
 robotstxt:
