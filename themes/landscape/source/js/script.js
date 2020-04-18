@@ -103,12 +103,11 @@
 	var $center = $(this).find('center');
     if($center.attr('data-imgs')){var $this = $(this);
       $(window).on('load',function(){
-	  var imgs = $center.attr('data-imgs').split(','), galleryName = imgs[0], arr = [];
-	  $.each(imgs.slice(1),function(index,curr){
+	  var imgs = $center.attr('data-imgs').split(','), galleryName = imgs[0];
+      $center.append($.map(imgs.slice(1),function(curr){
 		  var thumb=curr.split('.');thumb[thumb.length-2]+='-thumb';
-		  arr.push('<a class="fancybox" href="<%-c.cdn%><%-c.startslash%>images/'+galleryName+'/'+curr+'" rel="article'+i+'"><img class="gallth" width="200px" height="160px" src="<%-c.cdn%><%-c.startslash%>images/'+galleryName+'/'+thumb.join('.')+'" alt="'/*+curr.split('.').slice(0,-1).join('.')*/+'"></a>');
-	  });
-      $center.append(arr.join(''));
+		  return '<a class="fancybox" href="<%-c.cdn%><%- c.root && c.root.length>1 ? c.root : c.startslash %>images/'+galleryName+'/'+curr+'" rel="article'+i+'"><img class="gallth" width="200px" height="160px" src="<%-c.cdn%><%- c.root && c.root.length>1 ? c.root : c.startslash %>images/'+galleryName+'/'+thumb.join('.')+'" alt="'/*+curr.split('.').slice(0,-1).join('.')*/+'"></a>';
+	  }).join(''));
 	  $center.removeAttr('data-imgs');
 	  });
     }

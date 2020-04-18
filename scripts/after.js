@@ -58,15 +58,16 @@ hexo.extend.filter.register('after_render:js', (js, data)=>{
 
 hexo.extend.filter.register('after_render:html', html=>{
 	if(hconf.cdn)html=html.replace(/(href|src|rel)=("|')\/(.*?\.(jpg|jpeg|png|js|css|pdf|doc|docx|xls|xlsx))("|')/gi, '$1=$2'+hconf.cdn+'/$3$5');
+	if(hconf.root && hconf.root.length>1)html=html.replace(new RegExp('(href|src|rel)=("|\')/(?!' + hconf.root.replace(/^\//,'') + ')(.*?)("|\')','gi'), '$1=$2'+hconf.root+'$3$4');
 	if(hconf.removestartslash)html=html.replace(/(href|src|rel)=("|')\/(.*?)("|')/gi, '$1=$2$3$4');
-	html=html.replace('<link rel="alternate" href="/atom.xml"','<link rel="alternate" href="'+hconf.url+'/atom.xml"');
+	// html=html.replace('<link rel="alternate" href="/atom.xml"','<link rel="alternate" href="'+hconf.url+'/atom.xml"');
 	// html=html.replace(/(\/|&#x2F;)index\.html/gi,'&#x2F;');
 	html=html.replace(/(<meta .*?property="og:url".*? content=".*?)index\.html/gi,'$1');
 	html=html.replace(/&#x2F;/gi,'/').replace(/<meta .*?name="generator".*? content=".*?".*?>/gi,'');
 	html=html.replace(/(<a class=".*?(category-list-link|article-category-link).*?" href=".*?">)(.*?)(<\/a>)/g, (...args)=>{return args[1]+args[3][0].toUpperCase()+args[3].slice(1)+args[4];});
 	html=html.replace(/<meta property="og:url" content=".*?\/404\.html">/i,'');
 	html=html.replace(/<script defer/gi,'<script');
-	html=html.replace(/<script(.*? src=(.*?)>)/gi, (...args)=>{return hconf.scriptdefer && !args[2].toLowerCase().includes('html5shiv')?'<script defer'+args[1]:args[0]});
+	if(hconf.scriptdefer)html=html.replace(/<script(.*? src=(.*?)>)/gi, (...args)=>{return !args[2].toLowerCase().includes('html5shiv')?'<script defer'+args[1]:args[0]});
 	// html=html.replace(/imgalt/gi,'');
 	// html=html.replace(/<script/i,'</div><script');
 	// html=html.replace(/<\/div>(?!.*<\/div>)/i,'');

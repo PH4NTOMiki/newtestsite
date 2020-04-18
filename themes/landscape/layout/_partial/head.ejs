@@ -25,20 +25,20 @@
   }
   %>
   <title><% if (title){ %><%= title %> | <% } %><%= config.title %></title>
-  <% if (title && config.removestartslash){ %><base href="<%- config.root && config.root.length>1 ? config.root : '../'.repeat(path.split('/').length-1) %>"><% } %>
+  <% if (title && config.root && config.root.length<=1 && config.removestartslash){ %><base href="<%- '../'.repeat(path.split('/').length-1) %>"><% } %>
   <% if (config.olderiesupport){ %>
-  <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="/js/html5shiv.min.js"></script><![endif]-->
+  <!--[if lt IE 9]><meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="<%- url_for('/js/html5shiv.min.js') %>"></script><![endif]-->
   <% } %>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <%- og %>
   <% if (theme.rss){ %>
-    <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
+    <link rel="alternate" href="<%- full_url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
   <% } %>
   <% if (theme.favicon){ %>
-    <link rel="icon" href="<%- theme.favicon %>">
+    <link rel="icon" href="<%- url_for(theme.favicon) %>">
   <% } %>
   <% if (config.font_source_code_pro){ %>
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <% } %>
-  <%- css('css/style') %>
+  <%- css('/css/style.css') %>
 </head>

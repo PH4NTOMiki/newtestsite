@@ -1,2 +1,1 @@
-hexo generate
-pause
+hexo generate && pause

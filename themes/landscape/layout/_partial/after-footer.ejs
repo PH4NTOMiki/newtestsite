@@ -1,6 +1,6 @@
 <% if (theme.fancybox){ %>
   <% if (!config.fancyboxcsscombined){ %>
-	  <%- css('fancybox/jquery.fancybox') %>
+	  <%- css('/fancybox/jquery.fancybox.css') %>
   <% } %>
  <% } %>
 
@@ -10,23 +10,23 @@
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
-	<%- js('fuse.min.js') %>
+	<%- js('/js/fuse.min.js') %>
 <% } %>
 <% if (!config.localresources){ %>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	<% if (theme.fancybox && !config.fancyboxjscombined){ %>
-  <%- js('fancybox/jquery.fancybox.pack') %>
+  <%- js('/fancybox/jquery.fancybox.pack.js') %>
 <% } %>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
 <% } else { %>
-	<%- js('js/jquery.2.0.3.min.js') %>
+	<%- js('/js/jquery.2.0.3.min.js') %>
 	<% if (theme.fancybox && !config.fancyboxjscombined){ %>
-  <%- js('fancybox/jquery.fancybox.pack') %>
+  <%- js('/fancybox/jquery.fancybox.pack') %>
 <% } %>
-	<% if (!config.fusecombined){ %> <%- js('js/fuse.min.js') %> <% } %>
+	<% if (!config.fusecombined){ %> <%- js('/js/fuse.min.js') %> <% } %>
 <% } %>
 
-<%- js('js/script.js') %>
+<%- js('/js/script.js') %>
 <% if (config.disqus_shortname){ %>
 <script>
   var disqus_shortname = '<%= config.disqus_shortname %>';
