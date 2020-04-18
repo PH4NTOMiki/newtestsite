@@ -103,7 +103,7 @@ fancyboxcsscombined: true
 fancyboxjscombined: true
 scriptdefer: true
 olderiesupport: true
-#removestartslash: true
+#enablerelativepaths: true
 #counter: 
 
 robotstxt:
