@@ -17,6 +17,9 @@ hconf.startslash = hconf.removestartslash ? '' : '/';
 		fs.writeFileSync(path.join(__dirname,'..','public','pretraga','index.html'),html);
 	}
 });*/
+function fill(s, a){return s.replace(/\$(\d)/g, (...args)=>a[args[1]])}
+function isRelative(s){return !/^\/\/(?!\/)/.test(s)}
+function fillIfRelative(s, a){return isRelative('/'+a[3]) ? fill(s, a) : a[0]}
 function percentEncode(r){for(var e="",t=0,n=r.length;t<n;t++)e+="%"+parseInt(r.charCodeAt(t)).toString(16).toUpperCase();return e}
 // function patternRegex(str, flags){return new RegExp('(\/.*?)?' + str + '(.*?\/)?', flags || 'g');}
 
@@ -24,7 +27,7 @@ if(hconf.cdn && !((hexo.env.args && hexo.env.args._) || []).includes('clean')){
 	hexo.log.info('using CDN: ' + hconf.cdn);
 	hexo.extend.filter.register('after_post_render', data=>{
 		// hexo.log.info('after_post_render');
-		data.content = data.content.replace(/(href|src|rel)=("|')\/(.*?\.(jpg|jpeg|png|js|css|pdf|doc|docx|xls|xlsx))("|')/gi, '$1=$2'+hconf.cdn+'/$3$5');
+		data.content = data.content.replace(/(href|src|rel)=("|')\/(.*?\.(jpg|jpeg|png|js|css|pdf|doc|docx|xls|xlsx))("|')/gi, (...args)=>fillIfRelative('$1=$2'+hconf.cdn+'/$3$5', args));
 		return data;
 	});
 	/*hexo.extend.filter.register('before_exit', ()=>{
@@ -57,9 +60,9 @@ hexo.extend.filter.register('after_render:js', (js, data)=>{
 });
 
 hexo.extend.filter.register('after_render:html', html=>{
-	if(hconf.cdn)html=html.replace(/(href|src|rel)=("|')\/(.*?\.(jpg|jpeg|png|js|css|pdf|doc|docx|xls|xlsx))("|')/gi, '$1=$2'+hconf.cdn+'/$3$5');
-	if(hconf.root && hconf.root.length>1)html=html.replace(new RegExp('(href|src|rel)=("|\')/(?!' + hconf.root.replace(/^\//,'') + ')(.*?)("|\')','gi'), '$1=$2'+hconf.root+'$3$4');
-	if(hconf.removestartslash)html=html.replace(/(href|src|rel)=("|')\/(.*?)("|')/gi, '$1=$2$3$4');
+	if(hconf.cdn)html=html.replace(/(href|src|rel)=("|')\/(.*?\.(jpg|jpeg|png|js|css|pdf|doc|docx|xls|xlsx))("|')/gi, (...args)=>fillIfRelative('$1=$2'+hconf.cdn+'/$3$5', args));
+	if(hconf.root && hconf.root.length>1)html=html.replace(new RegExp('(href|src|rel)=("|\')/(?!' + hconf.root.replace(/^\//,'') + ')(.*?)("|\')','gi'), (...args)=>fillIfRelative('$1=$2'+hconf.root+'$3$4', args));
+	if(hconf.removestartslash)html=html.replace(/(href|src|rel)=("|')\/(.*?)("|')/gi, (...args)=>fillIfRelative('$1=$2$3$4', args));
 	// html=html.replace('<link rel="alternate" href="/atom.xml"','<link rel="alternate" href="'+hconf.url+'/atom.xml"');
 	// html=html.replace(/(\/|&#x2F;)index\.html/gi,'&#x2F;');
 	html=html.replace(/(<meta .*?property="og:url".*? content=".*?)index\.html/gi,'$1');
