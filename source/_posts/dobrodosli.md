@@ -1,8 +1,8 @@
 ﻿---
 title: Dobrodošli
 id: 24
-date: 2016-05-17 07:27:11
+date: 2020-03-01 12:00:00
 tags:
 ---
 
-Dobrodošli na novi i zvanični web-site "Osnovna Škola "Vareš" Vareš".
+<b>Dobrodošli na novi i zvanični web-site "Mješovita Srednja Škola "Nordbat-2" Vareš".</b>
