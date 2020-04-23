@@ -1,4 +1,4 @@
----
+﻿---
 title: Tehničko osoblje
 id: 81
 date: 2016-03-09 12:12:53
@@ -6,4 +6,3 @@ tags:
 hidden: true
 ---
 
-<table class="table table-bordered table-hover table-condensed"><thead><tr><th title="Field #1">Red. br.</th><th title="Field #2">Prezime ( ime oca) i ime</th><th title="Field #3">Posao ili funkciju koju obnaša</th></tr></thead><tbody><tr><td align="right">1.</td><td>Parić ( Ahmed) Muris</td><td>Ravnatelja</td></tr><tr><td align="right">2.</td><td>Mandić ( Petar) Alma</td><td>Pom. ravnatelj</td></tr><tr><td align="right">3.</td><td>Karagić ( Mujo) Suvada</td><td>Pedagog</td></tr><tr><td align="right">4.</td><td>Botić (Esed)Ahmed</td><td>Računovođa</td></tr><tr><td align="right">5.</td><td>Balta (Fahrija) Elma</td><td>Tajnica</td></tr><tr><td align="right">6.</td><td>Bisić (Suljo) Hikmet</td><td>Domar</td></tr><tr><td align="right">7.</td><td>Brkić (Fehim) Vernes</td><td>Ložač</td></tr><tr><td align="right">8.</td><td>Kruezi (Hrustem) Zejfa</td><td>Higijeničar</td></tr><tr><td align="right">9.</td><td>Brkić (Mujo) Snježana</td><td>Higijeničar</td></tr><tr><td align="right">10.</td><td>Dusper ( August) Nada</td><td>Higijeničar</td></tr><tr><td align="right">11.</td><td>Malbašić (Franjo) Ivanka</td><td>Higijeničar</td></tr><tr><td align="right">12.</td><td>Pašalić (Željko) Vedrana</td><td>Higijeničar</td></tr><tr><td align="right">13.</td><td>Jurkić (Ramo) Vasva</td><td>Higijeničar</td></tr><tr><td align="right">14.</td><td>Hasagić (Avdo) Hafiza</td><td>Higijeničar</td></tr><tr><td align="right">15.</td><td>Jaganjac (Ćamil) Fatima</td><td>Higijeničar</td></tr><tr><td align="right">16.</td><td>Ajanović (Naza) Šuhra</td><td>Higijeničar</td></tr><tr><td align="right">17.</td><td>Muftić (Ahmet) Semka</td><td>Higijeničar</td></tr><tr><td align="right">18.</td><td>Bukvarević (Ljubisav) Branka</td><td>Bibliotekar</td></tr><tr><td align="right">19.</td><td>Đana Alibašić</td><td>Defektolog</td></tr></tbody></table>
