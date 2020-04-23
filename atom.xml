@@ -6,7 +6,7 @@
   <link href="/newtestsite/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-23T10:41:52.245Z</updated>
+  <updated>2020-04-23T12:36:53.335Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/dobrodosli/"/>
     <id>http://yoursite.com/dobrodosli/</id>
     <published>2020-03-01T12:00:00.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p><b>Dobrodošli na novi i zvanični web-site “Mješovita Srednja Škola “Nordbat-2” Vareš”.</b></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://yoursite.com/nastavni-kadar/"/>
     <id>http://yoursite.com/nastavni-kadar/</id>
     <published>2016-04-06T17:32:13.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -65,7 +65,7 @@
     <link href="http://yoursite.com/obavjestenja/"/>
     <id>http://yoursite.com/obavjestenja/</id>
     <published>2016-03-09T12:14:13.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p>Obavještenja</p>]]></content>
     
@@ -88,7 +88,7 @@
     <link href="http://yoursite.com/konkursi/"/>
     <id>http://yoursite.com/konkursi/</id>
     <published>2016-03-09T12:13:47.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p>Konkursi</p>]]></content>
     
@@ -111,7 +111,7 @@
     <link href="http://yoursite.com/javne-nabavke/"/>
     <id>http://yoursite.com/javne-nabavke/</id>
     <published>2016-03-09T12:13:25.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -133,7 +133,7 @@
     <link href="http://yoursite.com/tehnicko-osoblje/"/>
     <id>http://yoursite.com/tehnicko-osoblje/</id>
     <published>2016-03-09T12:12:53.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -155,7 +155,7 @@
     <link href="http://yoursite.com/takmicenja/"/>
     <id>http://yoursite.com/takmicenja/</id>
     <published>2016-02-24T21:25:29.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -177,7 +177,7 @@
     <link href="http://yoursite.com/priredbe/"/>
     <id>http://yoursite.com/priredbe/</id>
     <published>2016-02-24T21:24:56.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -199,7 +199,7 @@
     <link href="http://yoursite.com/izleti-i-ekskurzije/"/>
     <id>http://yoursite.com/izleti-i-ekskurzije/</id>
     <published>2016-02-24T21:24:27.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p>Izleti i ekskurzije</p>]]></content>
     
@@ -222,18 +222,15 @@
     <link href="http://yoursite.com/razredi/"/>
     <id>http://yoursite.com/razredi/</id>
     <published>2016-02-24T21:21:01.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
-    <content type="html"><![CDATA[<p>1. Brojno stanje razreda, odjela i učenika</p><p>PRIKAZ BROJNOG STANJA NA NIVOU ŠKOLE</p><p>Nastava na bosanskom jeziku</p><p>Tablica 8B</p><p>Razred</p><p>Vareš Ligatići Dragovići Pržići</p><p>Svega</p><p>„a“</p><p>„c“</p><p>„b“</p><p>„d“</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>UKUPNO</p><p>UKUPNO</p><p>UKUPNO</p><p>UKUPNO</p><p>UKUPNO</p><p>UKUPNO</p><p>UKUPNO</p><p>I.</p><p>10</p><p>8</p><p>4</p><p>0</p><p>2</p><p>1</p><p>0</p><p>0</p><p>16</p><p>9</p><p>18</p><p>4</p><p>3</p><p>0</p><p>25</p><p>II.</p><p>6</p><p>11</p><p>1</p><p>2</p><p>2</p><p>1</p><p>0</p><p>1</p><p>-</p><p>-</p><p>-</p><p>-</p><p>9</p><p>15</p><p>17</p><p>3</p><p>3</p><p>1</p><p>-</p><p>-</p><p>24</p><p>III.</p><p>8</p><p>12</p><p>0</p><p>1</p><p>2</p><p>1</p><p>0</p><p>1</p><p>10</p><p>15</p><p>20</p><p>1</p><p>3</p><p>1</p><p>25</p><p>IV.</p><p>7</p><p>9</p><p>0</p><p>1</p><p>0</p><p>1</p><p>0</p><p>0</p><p>7</p><p>11</p><p>16</p><p>1</p><p>1</p><p>0</p><p>18</p><p>V.</p><p>10</p><p>9</p><p>2</p><p>0</p><p>3</p><p>0</p><p>0</p><p>0</p><p>15</p><p>9</p><p>19</p><p>2</p><p>3</p><p>0</p><p>24</p><p>Ukupan broj odjela od I. do V. razreda: 9</p><p>Svega</p><p>(I.-V.)</p><p>57</p><p>69</p><p>116</p><p>VI.</p><p>5</p><p>4</p><p>5</p><p>4</p><p>9</p><p>9</p><p>VII.</p><p>13</p><p>9</p><p>13</p><p>9</p><p>22</p><p>22</p><p>VIII.</p><p>10</p><p>10</p><p>10</p><p>10</p><p>20</p><p>20</p><p>IX.</p><p>12</p><p>15</p><p>12</p><p>15</p><p>27</p><p>27</p><p>Ukupan broj odjela od VI.-IX. razreda: 4</p><p>40</p><p>38</p><p>78</p><p>Ukupan broj odjela od I.- IX. razreda: 13</p><p>Svega</p><p>I.-IX.</p><p>97</p><p>96</p><p>194</p><p>Prosječan broj učenika po odjelu : 18,66 Kombinirani odjeli: I./II./IV.b; III./V.b i I./II./III./IV./Vc; II./III.-d,PRIKAZ BROJNOG STANJA NA NIVOU ŠKOLE</p><p>Nastava na hrvatskom jeziku</p><p>Tablica 8H</p><p>Razred</p><p>Vareš Oćevija Pogar Vijaka</p><p>Svega</p><p>„1“</p><p>„2“</p><p>„3“</p><p>„4“</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>M</p><p>Ž</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>I.</p><p>5</p><p>4</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>5</p><p>4</p><p>9</p><p>0</p><p>0</p><p>0</p><p>9</p><p>II.</p><p>5</p><p>7</p><p>1</p><p>0</p><p>1</p><p>1</p><p>1</p><p>0</p><p>8</p><p>8</p><p>12</p><p>1</p><p>2</p><p>1</p><p>16</p><p>III.</p><p>7</p><p>3</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>0</p><p>8</p><p>3</p><p>10</p><p>0</p><p>0</p><p>1</p><p>11</p><p>IV.</p><p>5</p><p>4</p><p>1</p><p>0</p><p>0</p><p>1</p><p>0</p><p>1</p><p>6</p><p>6</p><p>9</p><p>1</p><p>1</p><p>1</p><p>12</p><p>V.</p><p>4</p><p>4</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>1</p><p>5</p><p>5</p><p>8</p><p>0</p><p>0</p><p>2</p><p>10</p><p>Ukupan broj odjela od I. do V. razreda: 6</p><p>Svega</p><p>(I.-V.)</p><p>32</p><p>26</p><p>58</p><p>VI.</p><p>9</p><p>9</p><p>9</p><p>9</p><p>18</p><p>18</p><p>VII.</p><p>10</p><p>8</p><p>10</p><p>8</p><p>18</p><p>18</p><p>VIII.</p><p>10</p><p>10</p><p>10</p><p>10</p><p>20</p><p>20</p><p>IX.</p><p>5</p><p>8</p><p>5</p><p>8</p><p>13</p><p>13</p><p>Ukupan broj odjela od VI.-IX. razreda: 4</p><p>Svega</p><p>VI-IX</p><p>34</p><p>35</p><p>69</p><p>Ukupan broj odjela od I.- IX. Razreda: 10</p><p>Svega</p><p>I.-IX.</p><p>66</p><p>61</p><p>127</p><p>Prosječan broj učenika po odjelu: 15,6 Kombinirani odjeli II./IV.-1; III./V.-1; II/IV.-2; II/IV.-3; II./III./IV./V.-4;</p><p>PRIKAZ BROJNOG STANJA NA NIVOU ŠKOLE</p><p><strong>OSNOVNA ŠKOLA « VAREŠ» Tablica 8</strong></p><p><strong>Razred</strong></p><p><strong>Vareš</strong></p><p><strong>Vareš</strong></p><p><strong>Vareš</strong></p><p><strong>Ligatići</strong></p><p><strong>Dragovići</strong></p><p><strong>Pogar</strong></p><p><strong>Vijaka</strong></p><p><strong>Oćevija</strong></p><p><strong>Pržići</strong></p><p><strong>Svega</strong></p><p>„<strong>a“</strong></p><p>„<strong>1“</strong></p><p>„<strong>c“</strong></p><p>„<strong>b“</strong></p><p>„<strong>3“</strong></p><p>„<strong>4“</strong></p><p>„<strong>2“</strong></p><p>„<strong>d“</strong></p><p><strong>11</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p><strong>M</strong></p><p><strong>Ž</strong></p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>ukupno</p><p>I.</p><p>10</p><p>8</p><p>5</p><p>4</p><p>4</p><p>0</p><p>2</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>21</p><p>13</p><p>18</p><p>9</p><p>4</p><p>3</p><p>0</p><p>0</p><p>0</p><p>0</p><p>34</p><p>II.</p><p>6</p><p>11</p><p>5</p><p>7</p><p>1</p><p>2</p><p>2</p><p>1</p><p>1</p><p>1</p><p>1</p><p>0</p><p>1</p><p>0</p><p>0</p><p>1</p><p>17</p><p>23</p><p>17</p><p>12</p><p>3</p><p>3</p><p>2</p><p>1</p><p>1</p><p>1</p><p>40</p><p>III.</p><p>8</p><p>12</p><p>7</p><p>3</p><p>0</p><p>1</p><p>2</p><p>1</p><p>0</p><p>0</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>18</p><p>18</p><p>20</p><p>10</p><p>1</p><p>3</p><p>0</p><p>1</p><p>0</p><p>1</p><p>36</p><p>IV.</p><p>7</p><p>9</p><p>5</p><p>4</p><p>0</p><p>1</p><p>0</p><p>1</p><p>0</p><p>1</p><p>0</p><p>1</p><p>1</p><p>0</p><p>0</p><p>0</p><p>13</p><p>17</p><p>16</p><p>9</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>0</p><p>30</p><p>V.</p><p>10</p><p>9</p><p>4</p><p>4</p><p>2</p><p>0</p><p>3</p><p>0</p><p>0</p><p>0</p><p>1</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>20</p><p>14</p><p>19</p><p>8</p><p>2</p><p>3</p><p>0</p><p>2</p><p>0</p><p>0</p><p>34</p><p>Ukupan broj odjela od I. do VI. razreda : 14</p><p>Svega</p><p>I.- V.</p><p>89</p><p>85</p><p>174</p><p><strong>VI.</strong></p><p>5</p><p>4</p><p>9</p><p>9</p><p>14</p><p>13</p><p>9</p><p>18</p><p>27</p><p><strong>VII.</strong></p><p>13</p><p>9</p><p>10</p><p>8</p><p>23</p><p>17</p><p>22</p><p>18</p><p>40</p><p>VIII.</p><p>10</p><p>10</p><p>10</p><p>10</p><p>20</p><p>20</p><p>20</p><p>20</p><p>40</p><p><strong>IX.</strong></p><p>12</p><p>15</p><p>5</p><p>8</p><p>17</p><p>23</p><p>27</p><p>13</p><p>40</p><p>Ukupan broj odjela od VI. do IX. razreda: 8</p><p>Svega</p><p>VI.-IX.</p><p>74</p><p>73</p><p>147</p><p>Ukupan broj odjela od I. do IX. razreda: 23</p><p>Svega</p><p>I.-IX.</p><p>163</p><p>158</p><p>321</p><p>Prosječan broj učenika po odjelu na nivou škole: 17,57 :Kombinirani odjeli II./IV.-1; III./V.-1; II/IV.-2 ; II/IV.-3; II./III./IV./V.-4; I./II./IV.b; III./V.b i I./II./III./IV./Vc; II./III.d Suglasnost za odjele koji brojem učenika odstupaju od Pedagoških standarda u školskoj 2015/2016. godini je : Suglasnost br. 10-38-12523-7-2/15 od 29. 06. 2015. godine</p><p>UKUPAN PREGLED UČENIKA I ODJELA</p><p><strong>OŠ «VAREŠ»</strong></p><p>Tablica 9</p><p>Red.br..</p><p>Š K O L A</p><p>Broj učenika</p><p>Broj odjela</p><p>I.</p><p>II.</p><p>III.</p><p>IV.</p><p>V.</p><p>VI.</p><p>VII.</p><p>VIII</p><p>IX.</p><p>Sv.</p><p>I.</p><p>II.</p><p>III.</p><p>IV.</p><p>V.</p><p>VI.</p><p>VII.</p><p>VIII</p><p>IX.</p><p>svega</p><p>1.</p><p>Matična škola</p><p>27</p><p>29</p><p>30</p><p>25</p><p>27</p><p>27</p><p>40</p><p>40</p><p>40</p><p>285</p><p>2</p><p>1,5</p><p>1,5</p><p>1,5</p><p>1,5</p><p>2</p><p>2</p><p>2</p><p>2</p><p>16</p><p>2.</p><p>Područ. škola: Ligatići</p><p>4</p><p>3</p><p>1</p><p>1</p><p>2</p><p>0</p><p>0</p><p>0</p><p>0</p><p>11</p><p>0,20</p><p>0,20</p><p>0,20</p><p>0,20</p><p>0,20</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>3.</p><p>Područ. škola: Dragovići</p><p>3</p><p>3</p><p>3</p><p>1</p><p>3</p><p>0</p><p>0</p><p>0</p><p>0</p><p>13</p><p>0,33</p><p>0,33</p><p>0,50</p><p>0,34</p><p>0,50</p><p>0</p><p>0</p><p>0</p><p>0</p><p>2</p><p>4.</p><p>Područna škola: Vijaka</p><p>0</p><p>1</p><p>1</p><p>1</p><p>2</p><p>0</p><p>0</p><p>0</p><p>0</p><p>5</p><p>0</p><p>0,25</p><p>0,25</p><p>0,25</p><p>0,25</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>5.</p><p>Područ. škola: Oćevija</p><p>0</p><p>1</p><p>0</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>2</p><p>0</p><p>0,50</p><p>0</p><p>0,50</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>6.</p><p>Područna škola: Pogar</p><p>0</p><p>2</p><p>0</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>3</p><p>0</p><p>0,50</p><p>0</p><p>0,50</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>7.</p><p>Područna škola: Pržići</p><p>0</p><p>1</p><p>1</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>2</p><p>0</p><p>0,50</p><p>0,50</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>1</p><p>UKUPNO</p><p>34</p><p>40</p><p>36</p><p>30</p><p>34</p><p>27</p><p>40</p><p>40</p><p>40</p><p>321</p><p>2,53</p><p>3,78</p><p>2,95</p><p>3,29</p><p>2,45</p><p>2</p><p>2</p><p>2</p><p>2</p><p>23</p><p>ODJEL OSNOVNE GLAZBENE ŠKOLE</p><p>Tablica10</p><p>Red.br..</p><p>Š K O L A</p><p>Broj učenika</p><p>Broj odjela</p><p>I.</p><p>II.</p><p>III.</p><p>IV.</p><p>V.</p><p>VI.</p><p>Sv.</p><p>I.</p><p>II.</p><p>III.</p><p>IV.</p><p>V.</p><p>VI.</p><p>svega</p><p>1.</p><p>Matična škola</p><p>15</p><p>13</p><p>10</p><p>13</p><p>0</p><p>0</p><p>51</p><p>1</p><p>1</p><p>1</p><p>1</p><p>0</p><p>0</p><p>4</p><p>2.</p><p>Područ. škola:</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>UKUPNO</p><p>15</p><p>13</p><p>10</p><p>13</p><p>0</p><p>0</p><p>51</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>0</p><p>4</p>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;1. Brojno stanje razreda, odjela i učenika&lt;/p&gt;
-&lt;p&gt;PRIKAZ BROJNOG STANJA NA NIVOU ŠKOLE&lt;/p&gt;
-&lt;p&gt;Nastava na bosanskom jeziku&lt;/p&gt;
-&lt;p&gt;Tablica 
+        
       
     
     </summary>
@@ -247,7 +244,7 @@
     <link href="http://yoursite.com/kalendar/"/>
     <id>http://yoursite.com/kalendar/</id>
     <published>2016-02-24T21:20:45.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p>Kalendar</p>]]></content>
     
@@ -270,7 +267,7 @@
     <link href="http://yoursite.com/uspjesni-ucenici/"/>
     <id>http://yoursite.com/uspjesni-ucenici/</id>
     <published>2016-02-24T21:19:00.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p>Uspješni učenici</p>]]></content>
     
@@ -293,7 +290,7 @@
     <link href="http://yoursite.com/kontakt/"/>
     <id>http://yoursite.com/kontakt/</id>
     <published>2016-02-24T21:17:26.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<div class="tableresponsive"><table><tr><td>Naziv škole</td><td>Mješovita Srednja Škola "Nordbat-2" Vareš</td><td></td><td></td></tr><tr><td>Adresa</td><td>Ul. Zvijezda br. 36 Vareš</td><td></td><td></td></tr><tr><td>Akt o osnivanju</td><td>Osnivač škole je Skupština Zeničko–dobojskog kantona</td><td></td><td></td></tr><tr><td>Akt o upisu u sudski registar</td><td></td><td></td><td></td></tr><tr><td>Akt o upisu u registar Ministarstva</td><td></td><td></td><td></td></tr><tr><td>Direktor</td><td>Mirnes Hrvat</td><td>Telefon/ fax:</td><td></td></tr><tr><td>Pedagog</td><td></td><td>Telefon:</td><td></td></tr><tr><td>Sekretar</td><td></td><td>Telefon:</td><td></td></tr><tr><td>Fax</td><td></td><td></td><td></td></tr><tr><td>E –mail</td><td><a href="mailto:"></a></td><td></td><td></td></tr><tr><td>Web site</td><td><a href="https://mss-nordbat2.com" target="_blank" rel="noopener">mss-nordbat2.com</a></td><td></td><td></td></tr><tr><td>Broj učenika</td><td></td><td>Broj odjela</td><td></td></tr><tr><td>Broj nastavnog osoblja</td><td></td><td>Broj nenastavnog osoblja</td><td></td></tr></table></div>]]></content>
     
@@ -315,7 +312,7 @@
     <link href="http://yoursite.com/skolski-list/"/>
     <id>http://yoursite.com/skolski-list/</id>
     <published>2016-02-24T21:15:57.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -337,7 +334,7 @@
     <link href="http://yoursite.com/podaci/"/>
     <id>http://yoursite.com/podaci/</id>
     <published>2016-02-24T21:14:11.000Z</published>
-    <updated>2020-04-23T10:41:52.245Z</updated>
+    <updated>2020-04-23T12:36:53.335Z</updated>
     
     <content type="html"><![CDATA[<p> Osnovna škola «Vareš» u Varešu je obrazovna ustanova nastala spajanjem OŠ «Fra Filip</p><p>Lastrić» Vareš , u kojoj se nastava izvodila na hrvatskom jeziku za škole na hrvatskom jeziku i OŠ «Vareš» u kojoj se nastava izvodila na bosanskom jeziku i po nastavnom planu i programu koji je propisan u Zeničko - dobojskom kantonu.</p><p>Spajanje je izvršeno uz pomoć i superviziju OHR-a 2000. godine. Uz nazočnost OHR-a škole su postigle sporazum da će se udružiti u jedan pravni subjekt koji će imati direktora ( Bošnjak) i zamjenika ravnatelja ( Hrvat) . Škola će imati jedan Upravni odbor sastavljen od ( 3 Bošnjaka + 3 Hrvata). Hrvati su na uporabu dobili drugi kat, salu , a Bošnjaci ostale prostorije. Dogovoreno je da se sjednica stručnih organa održavaju odvojeno uz mogućnost da ravnatelj Bošnjak bude nazočan na sjednicama stručnih organa Hrvata i obrnuto. Ni jedan prosvjetni djelatnik 2000. godine nije radio i po jednom i po drugom nastavnom planu. Nastava se izvodi na dva jezika (hrvatskom i bosanskom) i po dva nastavna plana i programa (hrvatskom i bosanskom).Dogovoreno je također da dva ravnatelja moraju naći načina da surađuju i da popravljaju međuljudske odnose u školi.</p><p>U 2015//16. god u školi se obrazuje 320 djece hrvatske i bošnjačke nacionalnosti i jako mali broj učenika srpske nacionalnosti. Osim u matičnoj školi nastava na hrvatskom jeziku se izvodi i u četiri područne škole u selima Vijaka, Pogar, Oćevija i u Pržići, Ligatićima i Dragovićima na bosanskom jeziku. Škola se financira iz sredstava proračuna ZE –DO kantona.</p><p>Nakon petnaest godina rada u istoj školi situacija se dosta izmijenila tako da danas uz maksimalno zalaganje menadžmenta škole, OSCE-a imamo školu koja nije podijeljena na «katove» i « spratove» već svi učenici i djelatnici bez obzira na program i naciju koriste zajedno sve prostorije u školskim objektima ( zajednička zbornica, knjižnica, dvorana za tjelesnu kulturu, kabinete, učionice itd. ) . Devet nastavnika radi po oba programa, pedagog obavlja poslove za kompletnu školu. Na natjecanjima školu predstavljaju ekipe sastavljene od učenika iz oba programa, učenici zajedno odlaze na izlete, zimovanja, ekskurzije, disko večeri, snimaju zajedničke TV emisije ( Nema problema BHTV-1), održavaju zajedničke kreativne radionice, imaju zajedničko Vijeće učenika, zajedničko je i Vijeće roditelja itd.</p><p>Odvojeno se realiziraju samo sati redovite nastave i sjednice stručnih organa. Po potrebi organiziraju se i zajedničke sjednice kada se np. usvaja GPPR škole koji je zajednički.</p><p>OŠ « Vareš» u Varešu po preporuci OSCe-a posjetile su mnoge delegacije</p><p>( ambasadori predstavnici humanitarnih organizacija, ministri, ravnatelji drugih škola) kojim je prezentiran rad u školi .</p>]]></content>
     
