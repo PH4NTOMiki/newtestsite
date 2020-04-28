@@ -6,7 +6,7 @@
   <link href="/newtestsite/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-23T19:09:42.512Z</updated>
+  <updated>2020-04-28T14:27:02.575Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/dobrodosli/"/>
     <id>http://yoursite.com/dobrodosli/</id>
     <published>2020-03-01T12:00:00.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p><b>Dobrodošli na novi i zvanični web-site “Mješovita Srednja Škola “Nordbat-2” Vareš”.</b></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://yoursite.com/nastavni-kadar/"/>
     <id>http://yoursite.com/nastavni-kadar/</id>
     <published>2016-04-06T17:32:13.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -65,7 +65,7 @@
     <link href="http://yoursite.com/obavjestenja/"/>
     <id>http://yoursite.com/obavjestenja/</id>
     <published>2016-03-09T12:14:13.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p>Obavještenja</p>]]></content>
     
@@ -88,7 +88,7 @@
     <link href="http://yoursite.com/konkursi/"/>
     <id>http://yoursite.com/konkursi/</id>
     <published>2016-03-09T12:13:47.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p>Konkursi</p>]]></content>
     
@@ -111,7 +111,7 @@
     <link href="http://yoursite.com/javne-nabavke/"/>
     <id>http://yoursite.com/javne-nabavke/</id>
     <published>2016-03-09T12:13:25.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -133,7 +133,7 @@
     <link href="http://yoursite.com/tehnicko-osoblje/"/>
     <id>http://yoursite.com/tehnicko-osoblje/</id>
     <published>2016-03-09T12:12:53.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -155,7 +155,7 @@
     <link href="http://yoursite.com/takmicenja/"/>
     <id>http://yoursite.com/takmicenja/</id>
     <published>2016-02-24T21:25:29.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -177,7 +177,7 @@
     <link href="http://yoursite.com/priredbe/"/>
     <id>http://yoursite.com/priredbe/</id>
     <published>2016-02-24T21:24:56.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -199,7 +199,7 @@
     <link href="http://yoursite.com/izleti-i-ekskurzije/"/>
     <id>http://yoursite.com/izleti-i-ekskurzije/</id>
     <published>2016-02-24T21:24:27.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p>Izleti i ekskurzije</p>]]></content>
     
@@ -222,7 +222,7 @@
     <link href="http://yoursite.com/razredi/"/>
     <id>http://yoursite.com/razredi/</id>
     <published>2016-02-24T21:21:01.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -244,7 +244,7 @@
     <link href="http://yoursite.com/kalendar/"/>
     <id>http://yoursite.com/kalendar/</id>
     <published>2016-02-24T21:20:45.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p>Kalendar</p>]]></content>
     
@@ -267,7 +267,7 @@
     <link href="http://yoursite.com/uspjesni-ucenici/"/>
     <id>http://yoursite.com/uspjesni-ucenici/</id>
     <published>2016-02-24T21:19:00.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[<p>Uspješni učenici</p>]]></content>
     
@@ -290,15 +290,15 @@
     <link href="http://yoursite.com/kontakt/"/>
     <id>http://yoursite.com/kontakt/</id>
     <published>2016-02-24T21:17:26.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
-    <content type="html"><![CDATA[<div class="tableresponsive"><table><tr><td>Naziv škole</td><td>Mješovita Srednja Škola "Nordbat-2" Vareš</td><td></td><td></td></tr><tr><td>Adresa</td><td>Ul. Zvijezda br. 36 Vareš</td><td></td><td></td></tr><tr><td>Akt o osnivanju</td><td>Osnivač škole je Skupština Zeničko–dobojskog kantona</td><td></td><td></td></tr><tr><td>Akt o upisu u sudski registar</td><td></td><td></td><td></td></tr><tr><td>Akt o upisu u registar Ministarstva</td><td></td><td></td><td></td></tr><tr><td>Direktor</td><td>Mirnes Hrvat</td><td>Telefon/ fax:</td><td></td></tr><tr><td>Pedagog</td><td></td><td>Telefon:</td><td></td></tr><tr><td>Sekretar</td><td></td><td>Telefon:</td><td></td></tr><tr><td>Fax</td><td></td><td></td><td></td></tr><tr><td>E –mail</td><td><a href="mailto:"></a></td><td></td><td></td></tr><tr><td>Web site</td><td><a href="https://mss-nordbat2.com" target="_blank" rel="noopener">mss-nordbat2.com</a></td><td></td><td></td></tr><tr><td>Broj učenika</td><td></td><td>Broj odjela</td><td></td></tr><tr><td>Broj nastavnog osoblja</td><td></td><td>Broj nenastavnog osoblja</td><td></td></tr></table></div>]]></content>
+    <content type="html"><![CDATA[<div class="tableresponsive"><table><tr><td>Naziv škole: </td><td>Mješovita Srednja Škola "Nordbat-2" Vareš</td><td></td><td></td></tr><tr><td>Adresa: </td><td>Ul. Zvijezda br. 36 Vareš</td><td></td><td></td></tr><tr><td>Akt o osnivanju: </td><td>Osnivač škole je Skupština Zeničko–dobojskog kantona</td><td></td><td></td></tr><tr><td>Akt o upisu u sudski registar: </td><td></td><td></td><td></td></tr><tr><td>Akt o upisu u registar Ministarstva: </td><td></td><td></td><td></td></tr><tr><td>Direktor: </td><td>Mirnes Hrvat</td><td>Telefon/fax:</td><td></td></tr><tr><td>Pedagog: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Sekretar: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Fax: </td><td></td><td></td><td></td></tr><tr><td>E–mail: </td><td><a href="mailto:"></a></td><td></td><td></td></tr><tr><td>Web site: </td><td><a href="https://mss-nordbat2.com" target="_blank" rel="noopener">mss-nordbat2.com</a></td><td></td><td></td></tr><tr><td>Broj učenika: </td><td></td><td>Broj odjela: </td><td></td></tr><tr><td>Broj nastavnog osoblja: </td><td></td><td>Broj nenastavnog osoblja: </td><td></td></tr></table></div>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;div class=&quot;tableresponsive&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Naziv škole&lt;/td&gt;&lt;td&gt;Mješovita Srednja Škola &quot;Nordbat-2&quot; Vareš&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td
+        &lt;div class=&quot;tableresponsive&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td&gt;Naziv škole: &lt;/td&gt;&lt;td&gt;Mješovita Srednja Škola &quot;Nordbat-2&quot; Vareš&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;
       
     
     </summary>
@@ -312,7 +312,7 @@
     <link href="http://yoursite.com/skolski-list/"/>
     <id>http://yoursite.com/skolski-list/</id>
     <published>2016-02-24T21:15:57.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -334,7 +334,7 @@
     <link href="http://yoursite.com/podaci/"/>
     <id>http://yoursite.com/podaci/</id>
     <published>2016-02-24T21:14:11.000Z</published>
-    <updated>2020-04-23T19:09:42.512Z</updated>
+    <updated>2020-04-28T14:27:02.575Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
