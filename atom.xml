@@ -3,11 +3,11 @@
   <title>Mješovita Srednja Škola &quot;Nordbat-2&quot; Vareš</title>
   
   
-  <link href="/newtestsite/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-28T14:48:32.898Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://mss-nordbat2.com/"/>
+  <updated>2020-04-29T16:15:29.635Z</updated>
+  <id>https://mss-nordbat2.com/</id>
   
   <author>
     <name>M.S.Š. Nordbat-2 Vareš</name>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>Dobrodošli</title>
-    <link href="http://yoursite.com/dobrodosli/"/>
-    <id>http://yoursite.com/dobrodosli/</id>
+    <link href="https://mss-nordbat2.com/dobrodosli/"/>
+    <id>https://mss-nordbat2.com/dobrodosli/</id>
     <published>2020-03-01T12:00:00.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p><b>Dobrodošli na novi i zvanični web-site “Mješovita Srednja Škola “Nordbat-2” Vareš”.</b></p>]]></content>
     
@@ -40,10 +40,10 @@
   
   <entry>
     <title>Nastavni kadar</title>
-    <link href="http://yoursite.com/nastavni-kadar/"/>
-    <id>http://yoursite.com/nastavni-kadar/</id>
+    <link href="https://mss-nordbat2.com/nastavni-kadar/"/>
+    <id>https://mss-nordbat2.com/nastavni-kadar/</id>
     <published>2016-04-06T17:32:13.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -62,10 +62,10 @@
   
   <entry>
     <title>Obavještenja</title>
-    <link href="http://yoursite.com/obavjestenja/"/>
-    <id>http://yoursite.com/obavjestenja/</id>
+    <link href="https://mss-nordbat2.com/obavjestenja/"/>
+    <id>https://mss-nordbat2.com/obavjestenja/</id>
     <published>2016-03-09T12:14:13.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p>Obavještenja</p>]]></content>
     
@@ -85,10 +85,10 @@
   
   <entry>
     <title>Konkursi</title>
-    <link href="http://yoursite.com/konkursi/"/>
-    <id>http://yoursite.com/konkursi/</id>
+    <link href="https://mss-nordbat2.com/konkursi/"/>
+    <id>https://mss-nordbat2.com/konkursi/</id>
     <published>2016-03-09T12:13:47.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p>Konkursi</p>]]></content>
     
@@ -108,10 +108,10 @@
   
   <entry>
     <title>Javne nabavke</title>
-    <link href="http://yoursite.com/javne-nabavke/"/>
-    <id>http://yoursite.com/javne-nabavke/</id>
+    <link href="https://mss-nordbat2.com/javne-nabavke/"/>
+    <id>https://mss-nordbat2.com/javne-nabavke/</id>
     <published>2016-03-09T12:13:25.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -130,10 +130,10 @@
   
   <entry>
     <title>Tehničko osoblje</title>
-    <link href="http://yoursite.com/tehnicko-osoblje/"/>
-    <id>http://yoursite.com/tehnicko-osoblje/</id>
+    <link href="https://mss-nordbat2.com/tehnicko-osoblje/"/>
+    <id>https://mss-nordbat2.com/tehnicko-osoblje/</id>
     <published>2016-03-09T12:12:53.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -152,10 +152,10 @@
   
   <entry>
     <title>Takmičenja</title>
-    <link href="http://yoursite.com/takmicenja/"/>
-    <id>http://yoursite.com/takmicenja/</id>
+    <link href="https://mss-nordbat2.com/takmicenja/"/>
+    <id>https://mss-nordbat2.com/takmicenja/</id>
     <published>2016-02-24T21:25:29.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -174,10 +174,10 @@
   
   <entry>
     <title>Priredbe</title>
-    <link href="http://yoursite.com/priredbe/"/>
-    <id>http://yoursite.com/priredbe/</id>
+    <link href="https://mss-nordbat2.com/priredbe/"/>
+    <id>https://mss-nordbat2.com/priredbe/</id>
     <published>2016-02-24T21:24:56.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -196,10 +196,10 @@
   
   <entry>
     <title>Izleti i ekskurzije</title>
-    <link href="http://yoursite.com/izleti-i-ekskurzije/"/>
-    <id>http://yoursite.com/izleti-i-ekskurzije/</id>
+    <link href="https://mss-nordbat2.com/izleti-i-ekskurzije/"/>
+    <id>https://mss-nordbat2.com/izleti-i-ekskurzije/</id>
     <published>2016-02-24T21:24:27.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p>Izleti i ekskurzije</p>]]></content>
     
@@ -219,10 +219,10 @@
   
   <entry>
     <title>Razredi</title>
-    <link href="http://yoursite.com/razredi/"/>
-    <id>http://yoursite.com/razredi/</id>
+    <link href="https://mss-nordbat2.com/razredi/"/>
+    <id>https://mss-nordbat2.com/razredi/</id>
     <published>2016-02-24T21:21:01.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -241,10 +241,10 @@
   
   <entry>
     <title>Kalendar</title>
-    <link href="http://yoursite.com/kalendar/"/>
-    <id>http://yoursite.com/kalendar/</id>
+    <link href="https://mss-nordbat2.com/kalendar/"/>
+    <id>https://mss-nordbat2.com/kalendar/</id>
     <published>2016-02-24T21:20:45.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p>Kalendar</p>]]></content>
     
@@ -264,10 +264,10 @@
   
   <entry>
     <title>Uspješni učenici</title>
-    <link href="http://yoursite.com/uspjesni-ucenici/"/>
-    <id>http://yoursite.com/uspjesni-ucenici/</id>
+    <link href="https://mss-nordbat2.com/uspjesni-ucenici/"/>
+    <id>https://mss-nordbat2.com/uspjesni-ucenici/</id>
     <published>2016-02-24T21:19:00.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[<p>Uspješni učenici</p>]]></content>
     
@@ -287,12 +287,12 @@
   
   <entry>
     <title>Kontakt</title>
-    <link href="http://yoursite.com/kontakt/"/>
-    <id>http://yoursite.com/kontakt/</id>
+    <link href="https://mss-nordbat2.com/kontakt/"/>
+    <id>https://mss-nordbat2.com/kontakt/</id>
     <published>2016-02-24T21:17:26.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
-    <content type="html"><![CDATA[<div class="tableresponsive"><table><tr><td>Naziv škole: </td><td>Mješovita Srednja Škola "Nordbat-2" Vareš </td><td></td><td></td></tr><tr><td>Adresa: </td><td>Ul. Zvijezda br. 36 Vareš </td><td></td><td></td></tr><tr><td>Akt o osnivanju: </td><td>Osnivač škole je Skupština Zeničko–dobojskog kantona </td><td></td><td></td></tr><tr><td>Akt o upisu u sudski registar: </td><td></td><td></td><td></td></tr><tr><td>Akt o upisu u registar Ministarstva: </td><td></td><td></td><td></td></tr><tr><td>Direktor: </td><td>Mirnes Hrvat </td><td>Telefon/fax: </td><td></td></tr><tr><td>Pedagog: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Sekretar: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Fax: </td><td></td><td></td><td></td></tr><tr><td>E–mail: </td><td><a href="mailto:"></a></td><td></td><td></td></tr><tr><td>Web site: </td><td><a href="https://mss-nordbat2.com" target="_blank" rel="noopener">mss-nordbat2.com </a></td><td></td><td></td></tr><tr><td>Broj učenika: </td><td></td><td>Broj odjela: </td><td></td></tr><tr><td>Broj nastavnog osoblja: </td><td></td><td>Broj nenastavnog osoblja: </td><td></td></tr></table></div>]]></content>
+    <content type="html"><![CDATA[<div class="tableresponsive"><table><tr><td>Naziv škole: </td><td>Mješovita Srednja Škola "Nordbat-2" Vareš </td><td></td><td></td></tr><tr><td>Adresa: </td><td>Ul. Zvijezda br. 36 Vareš </td><td></td><td></td></tr><tr><td>Akt o osnivanju: </td><td>Osnivač škole je Skupština Zeničko–dobojskog kantona </td><td></td><td></td></tr><tr><td>Akt o upisu u sudski registar: </td><td></td><td></td><td></td></tr><tr><td>Akt o upisu u registar Ministarstva: </td><td></td><td></td><td></td></tr><tr><td>Direktor: </td><td>Mirnes Hrvat </td><td>Telefon/fax: </td><td></td></tr><tr><td>Pedagog: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Sekretar: </td><td></td><td>Telefon: </td><td></td></tr><tr><td>Fax: </td><td></td><td></td><td></td></tr><tr><td>E–mail: </td><td><a href="mailto:"></a></td><td></td><td></td></tr><tr><td>Web site: </td><td><a href="https://mss-nordbat2.com">mss-nordbat2.com </a></td><td></td><td></td></tr><tr><td>Broj učenika: </td><td></td><td>Broj odjela: </td><td></td></tr><tr><td>Broj nastavnog osoblja: </td><td></td><td>Broj nenastavnog osoblja: </td><td></td></tr></table></div>]]></content>
     
     <summary type="html">
     
@@ -309,10 +309,10 @@
   
   <entry>
     <title>Školski list</title>
-    <link href="http://yoursite.com/skolski-list/"/>
-    <id>http://yoursite.com/skolski-list/</id>
+    <link href="https://mss-nordbat2.com/skolski-list/"/>
+    <id>https://mss-nordbat2.com/skolski-list/</id>
     <published>2016-02-24T21:15:57.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
@@ -331,10 +331,10 @@
   
   <entry>
     <title>Podaci</title>
-    <link href="http://yoursite.com/podaci/"/>
-    <id>http://yoursite.com/podaci/</id>
+    <link href="https://mss-nordbat2.com/podaci/"/>
+    <id>https://mss-nordbat2.com/podaci/</id>
     <published>2016-02-24T21:14:11.000Z</published>
-    <updated>2020-04-28T14:48:32.898Z</updated>
+    <updated>2020-04-29T16:15:29.635Z</updated>
     
     <content type="html"><![CDATA[]]></content>
     
