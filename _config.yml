@@ -104,7 +104,7 @@ fancyboxjscombined: true
 scriptdefer: true
 olderiesupport: true
 #enablerelativepaths: true
-#counter: 
+counter: mssnordbat2
 
 robotstxt:
   useragent: "*"
