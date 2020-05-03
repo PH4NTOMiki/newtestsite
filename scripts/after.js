@@ -1,6 +1,7 @@
 var  fs = require('hexo-fs'), path = require('path'), ejs = require('ejs'), jsminify = require('./jsminify'), hconf = hexo.config;
 hconf.counter = hconf.counter ? percentEncode(hconf.counter) : '';
 hconf.startslash = hconf.enablerelativepaths ? '' : '/';
+hconf.url_for = hexo.extend.helper.get('url_for').bind(hexo);
 /*	hexo.extend.filter.register('before_exit', function(){
 	var arr = [], url = hconf.url;
 	if(fs.existsSync(path.join(__dirname,'..','public','feed.json'))){

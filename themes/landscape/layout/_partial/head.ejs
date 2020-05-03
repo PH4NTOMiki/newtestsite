@@ -40,5 +40,5 @@
   <% if (config.font_source_code_pro){ %>
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
   <% } %>
-  <%- css('/css/style.css') %>
+  <link rel="stylesheet<% if (false /*config.prefetchstyle*/){ %> prefetch<% } %>" href="<%- url_for('/css/style.css') %>">
 </head>

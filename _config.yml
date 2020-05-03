@@ -105,6 +105,7 @@ scriptdefer: true
 olderiesupport: true
 #enablerelativepaths: true
 useprefetch: true
+prefetchstyle: true
 counter: mssnordbat2
 
 robotstxt:
